@@ -1,0 +1,21 @@
+base_url = "https://dark.ca"
+title = "Daniel \"phrawzty\" Maher"
+description = "Senior Security Advocate at Datadog, DevOpsDays core member, open source developer."
+theme = "terminus"
+
+author = "Dan Maher"
+
+[markdown.highlighting]
+theme = "nord"
+style = "class"
+
+[extra]
+color_scheme = "terminus"
+copyright = "© $YEAR Dan Maher"
+show_default_author = false
+fediverse_creator = "@phrawzty@hachyderm.io"
+
+main_menu = [
+    { name = "portfolio", url = "https://speaking.dark.ca/" },
+    { name = "blog", url = "https://blog.dark.ca/" },
+]
