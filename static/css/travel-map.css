@@ -1,0 +1,16 @@
+/* travel-map.css — sizing tweaks for the embedded map. */
+
+.travel-map {
+    width: 100%;
+    height: 540px;
+    border-radius: 4px;
+    /* Slightly lighter than the terminus page background so the map area
+       is visible while tiles load. */
+    background-color: #2a2824;
+}
+
+/* Popup content uses the page's monospace font for visual coherence. */
+.leaflet-popup-content {
+    font-family: inherit;
+    font-size: 0.9rem;
+}

@@ -1,0 +1,11 @@
+{#- travel-map shortcode: renders a Leaflet map of all places in data/visited.toml.
+
+    Usage: {{ travel_map() }}
+    Stylesheets must be added via page frontmatter (`page.extra.stylesheets`):
+        ["css/leaflet/leaflet.css", "css/travel-map.css"]
+-#}
+{%- set data = load_data(path="data/visited.toml") -%}
+<div id="travel-map-canvas" class="travel-map" aria-label="Map of places visited"></div>
+<script type="application/json" id="travel-pins">{{ data.place | json_encode | safe }}</script>
+<script src="{{ get_url(path='js/leaflet/leaflet.js', cachebust=true) | safe }}"></script>
+<script src="{{ get_url(path='js/travel-map.js', cachebust=true) | safe }}"></script>
