@@ -7,6 +7,29 @@
     /* Slightly lighter than the terminus page background so the map area
        is visible while tiles load. */
     background-color: #2a2824;
+    /* Make this its own stacking context so Leaflet's
+       `mix-blend-mode: plus-lighter` on tiles blends only against the map's
+       own backdrop, not against ancestor elements. */
+    isolation: isolate;
+}
+
+/* The terminus theme applies several global rules to <img> that quietly
+   sabotage Leaflet's tile rendering:
+     img,video        { display:block; max-inline-size:100%; block-size:auto }
+     h1...img,table   { margin:25px 0 }
+   The result is tile images stuck at the content-area width and offset by
+   25px per row, which manifests as a visually empty map. Restore intrinsic
+   sizing and zero the layout offsets inside the map container. */
+.leaflet-container img,
+.leaflet-container .leaflet-tile,
+.leaflet-container .leaflet-marker-icon,
+.leaflet-container .leaflet-marker-shadow {
+    max-width: none !important;
+    max-inline-size: none !important;
+    max-height: none !important;
+    block-size: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 /* Popup content uses the page's monospace font for visual coherence. */

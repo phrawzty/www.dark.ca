@@ -18,4 +18,12 @@ fediverse_creator = "@phrawzty@hachyderm.io"
 main_menu = [
     { name = "portfolio", url = "https://speaking.dark.ca/" },
     { name = "blog", url = "https://blog.dark.ca/" },
+    { name = "travels", url = "/travels/", trailing_slash = true },
 ]
+
+# Allow CARTO basemap tiles for the /travels/ map. The terminus theme enables
+# CSP by default (default-src 'self'); without this, tile <img> requests are
+# blocked because img-src falls back to default-src.
+[[extra.content_security_policy.allowed_domains]]
+directive = "img-src"
+domains = ["'self'", "https://*.basemaps.cartocdn.com"]
