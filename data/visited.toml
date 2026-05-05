@@ -6,2296 +6,1913 @@
 name = "Aberdeen, UK"
 lat = 57.144825
 lng = -2.101219
-tripadvisor_id = 186487
 
 [[place]]
 name = "Aix-en-Provence, France"
 lat = 43.5283
 lng = 5.44973
-tripadvisor_id = 187209
 
 [[place]]
 name = "Ajaccio, France"
 lat = 41.917904
 lng = 8.735848
-tripadvisor_id = 187140
 
 [[place]]
 name = "Albany, NY, USA"
 lat = 42.651447
 lng = -73.75456
-tripadvisor_id = 29786
 
 [[place]]
 name = "Albi, France"
 lat = 43.927517
 lng = 2.148244
-tripadvisor_id = 187167
 
 [[place]]
 name = "Alise-Sainte-Reine, France"
 lat = 47.53785
 lng = 4.48595
-tripadvisor_id = 3175264
 
 [[place]]
 name = "Allineuc, France"
 lat = 48.31089
 lng = -2.87189
-tripadvisor_id = 4680953
 
 [[place]]
 name = "Almhult, Sweden"
 lat = 56.552864
 lng = 14.136808
-tripadvisor_id = 1016404
 
 [[place]]
 name = "Altona, Manitoba, Canada"
 lat = 49.10469
 lng = -97.55961
-tripadvisor_id = 3390086
 
 [[place]]
 name = "Amstelveen, The Netherlands"
 lat = 52.29915
 lng = 4.858635
-tripadvisor_id = 1024752
 
 [[place]]
 name = "Amsterdam, The Netherlands"
 lat = 52.37
 lng = 4.89
-tripadvisor_id = 188590
 
 [[place]]
 name = "Angelholm, Sweden"
 lat = 56.24273
 lng = 12.8628
-tripadvisor_id = 189835
 
 [[place]]
 name = "Antwerp, Belgium"
 lat = 51.219032
 lng = 4.409642
-tripadvisor_id = 188636
 
 [[place]]
 name = "Arnay-sous-Vitteaux, France"
 lat = 47.44611
 lng = 4.4975
-tripadvisor_id = 9555479
 
 [[place]]
 name = "Aschheim, Germany"
 lat = 48.16634
 lng = 11.716058
-tripadvisor_id = 1009702
 
 [[place]]
 name = "Aubervilliers, France"
 lat = 48.91667
 lng = 2.38333
-tripadvisor_id = 3347617
 
 [[place]]
 name = "Auxerre, France"
 lat = 47.796677
 lng = 3.57073
-tripadvisor_id = 187107
 
 [[place]]
 name = "Avallon, France"
 lat = 47.48978
 lng = 3.90792
-tripadvisor_id = 187108
 
 [[place]]
 name = "Avignon, France"
 lat = 43.947704
 lng = 4.806896
-tripadvisor_id = 187212
 
 [[place]]
 name = "Avon, France"
 lat = 48.414574
 lng = 2.731654
-tripadvisor_id = 1158728
 
 [[place]]
 name = "Bairnsdale, Australia"
 lat = -37.8273
 lng = 147.62169
-tripadvisor_id = 255345
 
 [[place]]
 name = "Baldock, UK"
 lat = 51.98892
 lng = -0.18796
-tripadvisor_id = 499610
 
 [[place]]
 name = "Banff, Alberta, Canada"
 lat = 51.176468
 lng = -115.571
-tripadvisor_id = 154911
 
 [[place]]
 name = "Barcelona, Spain"
 lat = 41.385597
 lng = 2.169576
-tripadvisor_id = 187497
 
 [[place]]
 name = "Barking, UK"
 lat = 51.5397
 lng = 0.080975
-tripadvisor_id = 503771
 
 [[place]]
 name = "Bastia, France"
 lat = 42.6999
 lng = 9.44988
-tripadvisor_id = 187141
 
 [[place]]
 name = "Bayeux, France"
 lat = 49.2773
 lng = -0.7039
-tripadvisor_id = 187181
 
 [[place]]
 name = "Beaconsfield, Quebec, Canada"
 lat = 45.42475
 lng = -73.86462
-tripadvisor_id = 910895
 
 [[place]]
 name = "Beausejour, Manitoba, Canada"
 lat = 50.06179
 lng = -96.51429
-tripadvisor_id = 499158
 
 [[place]]
 name = "Beaverton, OR, USA"
 lat = 45.48469
 lng = -122.79604
-tripadvisor_id = 51765
 
 [[place]]
 name = "Bellevue, WA, USA"
 lat = 47.61003
 lng = -122.18785
-tripadvisor_id = 58349
 
 [[place]]
 name = "Belmont, CA, USA"
 lat = 37.51834
 lng = -122.27621
-tripadvisor_id = 32060
 
 [[place]]
 name = "Bengaluru, India"
 lat = 12.962484
 lng = 77.588455
-tripadvisor_id = 297628
 
 [[place]]
 name = "Berkeley, CA, USA"
 lat = 37.86988
 lng = -122.27054
-tripadvisor_id = 32066
 
 [[place]]
 name = "Berlin, Germany"
 lat = 52.51959
 lng = 13.397209
-tripadvisor_id = 187323
 
 [[place]]
 name = "Biarritz, France"
 lat = 43.48213
 lng = -1.565064
-tripadvisor_id = 187080
 
 [[place]]
 name = "Bidart, France"
 lat = 43.4391
 lng = -1.591
-tripadvisor_id = 562702
 
 [[place]]
 name = "Birgu (Vittoriosa), Malta"
 lat = 35.888268
 lng = 14.523582
-tripadvisor_id = 674784
 
 [[place]]
 name = "Bisbee, AZ, USA"
 lat = 31.44184
 lng = -109.91445
-tripadvisor_id = 31171
 
 [[place]]
 name = "Bismarck, ND, USA"
 lat = 46.808193
 lng = -100.783646
-tripadvisor_id = 49709
 
 [[place]]
 name = "Blackheath, Australia"
 lat = -33.63452
 lng = 150.28477
-tripadvisor_id = 504238
 
 [[place]]
 name = "Boissy l'Aillerie, France"
 lat = 49.07865
 lng = 2.03058
-tripadvisor_id = 7736823
 
 [[place]]
 name = "Bordeaux, France"
 lat = 44.841103
 lng = -0.580674
-tripadvisor_id = 187079
 
 [[place]]
 name = "Boston, MA, USA"
 lat = 42.357277
 lng = -71.05834
-tripadvisor_id = 60745
 
 [[place]]
 name = "Boulogne-Billancourt, France"
 lat = 48.83515
 lng = 2.24097
-tripadvisor_id = 196560
 
 [[place]]
 name = "Brandon, Manitoba, Canada"
 lat = 49.84769
 lng = -99.96201
-tripadvisor_id = 154951
 
 [[place]]
 name = "Bratislava, Slovakia"
 lat = 48.149662
 lng = 17.108503
-tripadvisor_id = 274924
 
 [[place]]
 name = "Brockville, Ontario, Canada"
 lat = 44.58787
 lng = -75.685646
-tripadvisor_id = 181758
 
 [[place]]
 name = "Brooklyn, NY, USA"
 lat = 40.69246
 lng = -73.99036
-tripadvisor_id = 60827
 
 [[place]]
 name = "Brossard, Quebec, Canada"
 lat = 45.45573
 lng = -73.4669
-tripadvisor_id = 181733
 
 [[place]]
 name = "Brussels, Belgium"
 lat = 50.849632
 lng = 4.351959
-tripadvisor_id = 188644
 
 [[place]]
 name = "Bucharest, Romania"
 lat = 44.42677
 lng = 26.103397
-tripadvisor_id = 294458
 
 [[place]]
 name = "Bungendore, Australia"
 lat = -35.25636
 lng = 149.44106
-tripadvisor_id = 528933
 
 [[place]]
 name = "Bussy-le-Grand, France"
 lat = 47.57406
 lng = 4.51853
-tripadvisor_id = 1898960
 
 [[place]]
 name = "Cadiz, Spain"
 lat = 36.530533
 lng = -6.295243
-tripadvisor_id = 187432
 
 [[place]]
 name = "Caen, France"
 lat = 49.18438
 lng = -0.36109
-tripadvisor_id = 187182
 
 [[place]]
 name = "Calgary, Alberta, Canada"
 lat = 51.05011
 lng = -114.07173
-tripadvisor_id = 154913
 
 [[place]]
 name = "Cambridge, UK"
 lat = 52.209747
 lng = 0.117344
-tripadvisor_id = 186225
 
 [[place]]
 name = "Camp Verde, AZ, USA"
 lat = 34.56205
 lng = -111.85355
-tripadvisor_id = 60904
 
 [[place]]
 name = "Camps Bay, South Africa"
 lat = -33.95176
 lng = 18.380127
-tripadvisor_id = 312658
 
 [[place]]
 name = "Canberra, Australia"
 lat = -35.28279
 lng = 149.12856
-tripadvisor_id = 255057
 
 [[place]]
 name = "Cape Town Central, South Africa"
 lat = -33.918163
 lng = 18.424736
-tripadvisor_id = 312659
 
 [[place]]
 name = "Carefree, AZ, USA"
 lat = 33.82498
 lng = -111.92253
-tripadvisor_id = 31181
 
 [[place]]
 name = "Carouge, Switzerland"
 lat = 46.18331
 lng = 6.14143
-tripadvisor_id = 664427
 
 [[place]]
 name = "Cascais, Portugal"
 lat = 38.6979
 lng = -9.42146
-tripadvisor_id = 189154
 
 [[place]]
 name = "Cave Creek, AZ, USA"
 lat = 33.82759
 lng = -111.95509
-tripadvisor_id = 31187
 
 [[place]]
 name = "Cergy, France"
 lat = 49.03524
 lng = 2.07982
-tripadvisor_id = 262037
 
 [[place]]
 name = "Chablis, France"
 lat = 47.81615
 lng = 3.800687
-tripadvisor_id = 1079400
 
 [[place]]
 name = "Chambly, Quebec, Canada"
 lat = 45.45032
 lng = -73.29072
-tripadvisor_id = 183734
 
 [[place]]
 name = "Chantilly City, France"
 lat = 49.193142
 lng = 2.469316
-tripadvisor_id = 227607
 
 [[place]]
 name = "Charenton-le-Pont, France"
 lat = 48.82164
 lng = 2.41349
-tripadvisor_id = 1080245
 
 [[place]]
 name = "Charlottetown, Prince Edward Island, Canada"
 lat = 46.2369
 lng = -63.129356
-tripadvisor_id = 155023
 
 [[place]]
 name = "Chartres, France"
 lat = 48.446507
 lng = 1.488907
-tripadvisor_id = 187122
 
 [[place]]
 name = "Chatillon-sur-Seine, France"
 lat = 47.86111
 lng = 4.5744
-tripadvisor_id = 1389085
 
 [[place]]
 name = "Chatou, France"
 lat = 48.89
 lng = 2.15581
-tripadvisor_id = 666520
 
 [[place]]
 name = "Chessy, France"
 lat = 48.87946
 lng = 2.763527
-tripadvisor_id = 1182377
 
 [[place]]
 name = "Chicago, IL, USA"
 lat = 41.878407
 lng = -87.62568
-tripadvisor_id = 35805
 
 [[place]]
 name = "Churchill, Manitoba, Canada"
 lat = 58.77194
 lng = -94.16422
-tripadvisor_id = 154952
 
 [[place]]
 name = "Clarkdale, AZ, USA"
 lat = 34.77148
 lng = -112.05597
-tripadvisor_id = 60981
 
 [[place]]
 name = "Clecy, France"
 lat = 48.91616
 lng = -0.49198
-tripadvisor_id = 672828
 
 [[place]]
 name = "Collioure, France"
 lat = 42.52384
 lng = 3.0856
-tripadvisor_id = 187152
 
 [[place]]
 name = "Cologne, Germany"
 lat = 50.939663
 lng = 6.959839
-tripadvisor_id = 187371
 
 [[place]]
 name = "Copenhagen, Denmark"
 lat = 55.67502
 lng = 12.580593
-tripadvisor_id = 189541
 
 [[place]]
 name = "Cornwall, Ontario, Canada"
 lat = 45.0202
 lng = -74.72757
-tripadvisor_id = 181722
 
 [[place]]
 name = "Couesmes-Vauce, France"
 lat = 48.451046
 lng = -0.709758
-tripadvisor_id = 14919231
 
 [[place]]
 name = "Coupvray, France"
 lat = 48.89289
 lng = 2.7967
-tripadvisor_id = 5599092
 
 [[place]]
 name = "Courbevoie, France"
 lat = 48.89893
 lng = 2.259861
-tripadvisor_id = 196563
 
 [[place]]
 name = "Cowes, Australia"
 lat = -38.456608
 lng = 145.23753
-tripadvisor_id = 261657
 
 [[place]]
 name = "Cremorne, Australia"
 lat = -33.83964
 lng = 151.23291
-tripadvisor_id = 2620212
 
 [[place]]
 name = "Creteil, France"
 lat = 48.77735
 lng = 2.45519
-tripadvisor_id = 196564
 
 [[place]]
 name = "Crissier, Switzerland"
 lat = 46.5532
 lng = 6.57747
-tripadvisor_id = 947015
 
 [[place]]
 name = "Dawson City, Yukon, Canada"
 lat = 64.06045
 lng = -139.43118
-tripadvisor_id = 154928
 
 [[place]]
 name = "Dawson Creek, British Columbia, Canada"
 lat = 55.76172
 lng = -120.23706
-tripadvisor_id = 499126
 
 [[place]]
 name = "Deauville City, France"
 lat = 49.35916
 lng = 0.07898
-tripadvisor_id = 187184
 
 [[place]]
 name = "Denver, CO, USA"
 lat = 39.73958
 lng = -104.98731
-tripadvisor_id = 33388
 
 [[place]]
 name = "Devin, Slovakia"
 lat = 48.17487
 lng = 16.9851
-tripadvisor_id = 799607
 
 [[place]]
 name = "Dijon, France"
 lat = 47.32346
 lng = 5.043647
-tripadvisor_id = 187111
 
 [[place]]
 name = "Dollard-des-Ormeaux, Quebec, Canada"
 lat = 45.48383
 lng = -73.80685
-tripadvisor_id = 983914
 
 [[place]]
 name = "Domfront, France"
 lat = 48.59167
 lng = -0.64853
-tripadvisor_id = 651736
 
 [[place]]
 name = "Dorval, Quebec, Canada"
 lat = 45.43893
 lng = -73.73017
-tripadvisor_id = 181732
 
 [[place]]
 name = "Douarnenez, France"
 lat = 48.09243
 lng = -4.33041
-tripadvisor_id = 608760
 
 [[place]]
 name = "Drumheller, Alberta, Canada"
 lat = 51.46102
 lng = -112.70689
-tripadvisor_id = 181805
 
 [[place]]
 name = "Dundee, UK"
 lat = 56.461514
 lng = -2.970447
-tripadvisor_id = 186518
 
 [[place]]
 name = "Ecublens, Switzerland"
 lat = 46.52543
 lng = 6.56113
-tripadvisor_id = 2216629
 
 [[place]]
 name = "Eden, Australia"
 lat = -37.06298
 lng = 149.90422
-tripadvisor_id = 494969
 
 [[place]]
 name = "Edinburgh, UK"
 lat = 55.955498
 lng = -3.191557
-tripadvisor_id = 186525
 
 [[place]]
 name = "Edmonton, Alberta, Canada"
 lat = 53.54132
 lng = -113.5006
-tripadvisor_id = 154914
 
 [[place]]
 name = "Elgin, AZ, USA"
 lat = 31.66162
 lng = -110.52731
-tripadvisor_id = 31218
 
 [[place]]
 name = "Emerson, Manitoba, Canada"
 lat = 49.004547
 lng = -97.20775
-tripadvisor_id = 5601985
 
 [[place]]
 name = "Epoisses, France"
 lat = 47.50666
 lng = 4.17428
-tripadvisor_id = 7112974
 
 [[place]]
 name = "Estoril, Portugal"
 lat = 38.70436
 lng = -9.398214
-tripadvisor_id = 189156
 
 [[place]]
 name = "Fain-les-Montbard, France"
 lat = 47.60724
 lng = 4.40163
-tripadvisor_id = 13490901
 
 [[place]]
 name = "Fargo, ND, USA"
 lat = 46.87591
 lng = -96.78176
-tripadvisor_id = 49785
 
 [[place]]
 name = "Fecamp, France"
 lat = 49.75769
 lng = 0.37634
-tripadvisor_id = 580151
 
 [[place]]
 name = "Fitzroy, Australia"
 lat = -37.79835
 lng = 144.97868
-tripadvisor_id = 1078374
 
 [[place]]
 name = "Flagstaff, AZ, USA"
 lat = 35.1982
 lng = -111.6513
-tripadvisor_id = 60971
 
 [[place]]
 name = "Flavigny-sur-Ozerain, France"
 lat = 47.51196
 lng = 4.53039
-tripadvisor_id = 680054
 
 [[place]]
 name = "Flin Flon, Manitoba, Canada"
 lat = 54.76823
 lng = -101.87697
-tripadvisor_id = 668862
 
 [[place]]
 name = "Fontainebleau, France"
 lat = 48.40523
 lng = 2.701252
-tripadvisor_id = 187145
 
 [[place]]
 name = "Franschhoek, South Africa"
 lat = -33.9076
 lng = 19.11743
-tripadvisor_id = 469391
 
 [[place]]
 name = "Fredericton, New Brunswick, Canada"
 lat = 45.96063
 lng = -66.63911
-tripadvisor_id = 154957
 
 [[place]]
 name = "Fremont, CA, USA"
 lat = 37.55091
 lng = -121.98217
-tripadvisor_id = 32411
 
 [[place]]
 name = "Garson, Manitoba, Canada"
 lat = 50.0778
 lng = -96.7073
-tripadvisor_id = 4466887
 
 [[place]]
 name = "Gatineau, Quebec, Canada"
 lat = 45.47746
 lng = -75.69607
-tripadvisor_id = 182166
 
 [[place]]
 name = "Geneva, Switzerland"
 lat = 46.20222
 lng = 6.14569
-tripadvisor_id = 188057
 
 [[place]]
 name = "Ghent, Belgium"
 lat = 51.05563
 lng = 3.72856
-tripadvisor_id = 188666
 
 [[place]]
 name = "Gif-sur-Yvette, France"
 lat = 48.70236
 lng = 2.13249
-tripadvisor_id = 776216
 
 [[place]]
 name = "Gillam, Manitoba, Canada"
 lat = 56.34942
 lng = -94.70893
-tripadvisor_id = 1576656
 
 [[place]]
 name = "Gimli, Manitoba, Canada"
 lat = 50.63687
 lng = -96.99419
-tripadvisor_id = 499162
 
 [[place]]
 name = "Glenbrook, Australia"
 lat = -33.76655
 lng = 150.62117
-tripadvisor_id = 1087670
 
 [[place]]
 name = "Glendale, AZ, USA"
 lat = 33.53858
 lng = -112.18628
-tripadvisor_id = 31231
 
 [[place]]
 name = "Gorron, France"
 lat = 48.41061
 lng = -0.81341
-tripadvisor_id = 1989154
 
 [[place]]
 name = "Gothenburg, Sweden"
 lat = 57.70382
 lng = 11.972486
-tripadvisor_id = 189894
 
 [[place]]
 name = "Grabouw, South Africa"
 lat = -34.15362
 lng = 19.014776
-tripadvisor_id = 1931831
 
 [[place]]
 name = "Granada, Spain"
 lat = 37.176136
 lng = -3.605812
-tripadvisor_id = 187441
 
 [[place]]
 name = "Granby, Quebec, Canada"
 lat = 45.39799
 lng = -72.72177
-tripadvisor_id = 182165
 
 [[place]]
 name = "Grand Canyon National Park, AZ, USA"
 lat = 36.097248
 lng = -112.11431
-tripadvisor_id = 143028
 
 [[place]]
 name = "Grand Forks, ND, USA"
 lat = 47.922817
 lng = -97.04287
-tripadvisor_id = 49816
 
 [[place]]
 name = "Grand Marais, Manitoba, Canada"
 lat = 50.54514
 lng = -96.62556
-tripadvisor_id = 2155130
 
 [[place]]
 name = "Grieges, France"
 lat = 46.25583
 lng = 4.85134
-tripadvisor_id = 6826477
 
 [[place]]
 name = "Grignon, France"
 lat = 47.55959
 lng = 4.410193
-tripadvisor_id = 15684012
 
 [[place]]
 name = "Guadarrama, Spain"
 lat = 40.673096
 lng = -4.088629
-tripadvisor_id = 1026172
 
 [[place]]
 name = "Halifax, Nova Scotia, Canada"
 lat = 44.646557
 lng = -63.574856
-tripadvisor_id = 154976
 
 [[place]]
 name = "Hamburg, Germany"
 lat = 53.55556
 lng = 10.013171
-tripadvisor_id = 187331
 
 [[place]]
 name = "Hana, HI, USA"
 lat = 20.75528
 lng = -155.98785
-tripadvisor_id = 60630
 
 [[place]]
 name = "Headingley, Manitoba, Canada"
 lat = 49.8728
 lng = -97.4049
-tripadvisor_id = 2622547
 
 [[place]]
 name = "Hecla Island, Manitoba, Canada"
 lat = 51.13745
 lng = -96.66302
-tripadvisor_id = 1102799
 
 [[place]]
 name = "Henlow, UK"
 lat = 52.03113
 lng = -0.28584
-tripadvisor_id = 499478
 
 [[place]]
 name = "Issy-les-Moulineaux, France"
 lat = 48.82116
 lng = 2.25132
-tripadvisor_id = 196569
 
 [[place]]
 name = "Istanbul, Turkiye"
 lat = 41.00986
 lng = 28.95707
-tripadvisor_id = 293974
 
 [[place]]
 name = "Ivry-sur-Seine, France"
 lat = 48.81168
 lng = 2.38489
-tripadvisor_id = 196570
 
 [[place]]
 name = "Jerome, AZ, USA"
 lat = 34.75087
 lng = -112.11608
-tripadvisor_id = 31253
 
 [[place]]
 name = "Joinville-le-Pont, France"
 lat = 48.81723
 lng = 2.46715
-tripadvisor_id = 1076282
 
 [[place]]
 name = "Joliette, Quebec, Canada"
 lat = 46.02357
 lng = -73.44196
-tripadvisor_id = 1380889
 
 [[place]]
 name = "Katoomba, Australia"
 lat = -33.71181
 lng = 150.31056
-tripadvisor_id = 261618
 
 [[place]]
 name = "Kelowna, British Columbia, Canada"
 lat = 49.884792
 lng = -119.49397
-tripadvisor_id = 154933
 
 [[place]]
 name = "Kemptville, Ontario, Canada"
 lat = 45.0168
 lng = -75.64104
-tripadvisor_id = 499268
 
 [[place]]
 name = "Kenora, Ontario, Canada"
 lat = 49.760853
 lng = -94.47974
-tripadvisor_id = 181749
 
 [[place]]
 name = "Kingman, AZ, USA"
 lat = 35.18882
 lng = -114.05543
-tripadvisor_id = 31259
 
 [[place]]
 name = "Kortrijk, Belgium"
 lat = 50.82799
 lng = 3.265028
-tripadvisor_id = 188673
 
 [[place]]
 name = "Kremlin Bicetre, France"
 lat = 48.81215
 lng = 2.35699
-tripadvisor_id = 227614
 
 [[place]]
 name = "Kyiv, Ukraine"
 lat = 50.444885
 lng = 30.536667
-tripadvisor_id = 294474
 
 [[place]]
 name = "L'Ile-Perrot, Quebec, Canada"
 lat = 45.39386
 lng = -73.95526
-tripadvisor_id = 1924377
 
 [[place]]
 name = "La Courneuve, France"
 lat = 48.92701
 lng = 2.3891
-tripadvisor_id = 1136264
 
 [[place]]
 name = "La Defense, France"
 lat = 48.88909
 lng = 2.240717
-tripadvisor_id = 1934807
 
 [[place]]
 name = "La Ferte Mace, France"
 lat = 48.58948
 lng = -0.35837
-tripadvisor_id = 315805
 
 [[place]]
 name = "Lac du Bonnet, Manitoba, Canada"
 lat = 50.25163
 lng = -96.06197
-tripadvisor_id = 670342
 
 [[place]]
 name = "Lahaina, HI, USA"
 lat = 20.87817
 lng = -156.67767
-tripadvisor_id = 60634
 
 [[place]]
 name = "Lakes Entrance, Australia"
 lat = -37.87952
 lng = 147.99179
-tripadvisor_id = 255354
 
 [[place]]
 name = "Languidic, France"
 lat = 47.83298
 lng = -3.15833
-tripadvisor_id = 1201065
 
 [[place]]
 name = "Lantilly, France"
 lat = 47.545437
 lng = 4.375883
-tripadvisor_id = 21319417
 
 [[place]]
 name = "Las Vegas, NV, USA"
 lat = 36.114304
 lng = -115.17208
-tripadvisor_id = 45963
 
 [[place]]
 name = "Lausanne, Switzerland"
 lat = 46.516125
 lng = 6.629172
-tripadvisor_id = 188107
 
 [[place]]
 name = "Laval, France"
 lat = 48.07269
 lng = -0.773163
-tripadvisor_id = 196653
 
 [[place]]
 name = "Laval, Quebec, Canada"
 lat = 45.55172
 lng = -73.74483
-tripadvisor_id = 155029
 
 [[place]]
 name = "Le Bourget, France"
 lat = 48.936653
 lng = 2.42723
-tripadvisor_id = 790301
 
 [[place]]
 name = "Les Lilas, France"
 lat = 48.87963
 lng = 2.41576
-tripadvisor_id = 1227935
 
 [[place]]
 name = "Lethbridge, Alberta, Canada"
 lat = 49.69384
 lng = -112.83374
-tripadvisor_id = 154919
 
 [[place]]
 name = "Leura, Australia"
 lat = -33.71152
 lng = 150.33134
-tripadvisor_id = 261620
 
 [[place]]
 name = "Levallois-Perret, France"
 lat = 48.894096
 lng = 2.289538
-tripadvisor_id = 196574
 
 [[place]]
 name = "Levis, Quebec, Canada"
 lat = 46.795124
 lng = -71.1791
-tripadvisor_id = 182163
 
 [[place]]
 name = "Lihue, HI, USA"
 lat = 21.97489
 lng = -159.36859
-tripadvisor_id = 60623
 
 [[place]]
 name = "Lille, France"
 lat = 50.636906
 lng = 3.065442
-tripadvisor_id = 187178
 
 [[place]]
 name = "Lisbon, Portugal"
 lat = 38.71211
 lng = -9.138085
-tripadvisor_id = 189158
 
 [[place]]
 name = "Lockport, Manitoba, Canada"
 lat = 50.08939
 lng = -96.95496
-tripadvisor_id = 1871867
 
 [[place]]
 name = "London, UK"
 lat = 51.51924
 lng = -0.096654
-tripadvisor_id = 186338
 
 [[place]]
 name = "Lorient, France"
 lat = 47.75018
 lng = -3.36685
-tripadvisor_id = 196530
 
 [[place]]
 name = "Los Molinos, Spain"
 lat = 40.71186
 lng = -4.075282
-tripadvisor_id = 2616524
 
 [[place]]
 name = "Lucca, Italy"
 lat = 43.84202
 lng = 10.51535
-tripadvisor_id = 187898
 
 [[place]]
 name = "Lyon, France"
 lat = 45.755955
 lng = 4.832282
-tripadvisor_id = 187265
 
 [[place]]
 name = "Madrid, Spain"
 lat = 40.41471
 lng = -3.700708
-tripadvisor_id = 187514
 
 [[place]]
 name = "Mallacoota, Australia"
 lat = -37.55756
 lng = 149.75545
-tripadvisor_id = 552206
 
 [[place]]
 name = "Malmo, Sweden"
 lat = 55.597195
 lng = 12.998863
-tripadvisor_id = 189839
 
 [[place]]
 name = "Maple Valley, WA, USA"
 lat = 47.39382
 lng = -122.04531
-tripadvisor_id = 58589
 
 [[place]]
 name = "Marmagne, France"
 lat = 47.62156
 lng = 4.367492
-tripadvisor_id = 19387561
 
 [[place]]
 name = "Marsa, Malta"
 lat = 35.8811
 lng = 14.491357
-tripadvisor_id = 2037463
 
 [[place]]
 name = "Marsannay-la-Cote, France"
 lat = 47.27006
 lng = 4.98789
-tripadvisor_id = 661496
 
 [[place]]
 name = "Marseille, France"
 lat = 43.2964
 lng = 5.37
-tripadvisor_id = 187253
 
 [[place]]
 name = "Matosinhos, Portugal"
 lat = 41.18604
 lng = -8.6788
-tripadvisor_id = 652092
 
 [[place]]
 name = "Mayenne, France"
 lat = 48.30576
 lng = -0.61721
-tripadvisor_id = 661268
 
 [[place]]
 name = "Mdina, Malta"
 lat = 35.88616
 lng = 14.401739
-tripadvisor_id = 190324
 
 [[place]]
 name = "Melbourne, Australia"
 lat = -37.818924
 lng = 144.95778
-tripadvisor_id = 255100
 
 [[place]]
 name = "Mesa, AZ, USA"
 lat = 33.41705
 lng = -111.83146
-tripadvisor_id = 31281
 
 [[place]]
 name = "Meudon, France"
 lat = 48.81208
 lng = 2.23778
-tripadvisor_id = 1941116
 
 [[place]]
 name = "Minneapolis, MN, USA"
 lat = 44.977795
 lng = -93.26244
-tripadvisor_id = 43323
 
 [[place]]
 name = "Minnedosa, Manitoba, Canada"
 lat = 50.24723
 lng = -99.83787
-tripadvisor_id = 1871869
 
 [[place]]
 name = "Minot, ND, USA"
 lat = 48.23612
 lng = -101.29607
-tripadvisor_id = 49909
 
 [[place]]
 name = "Mirboo North, Australia"
 lat = -38.40094
 lng = 146.15723
-tripadvisor_id = 552213
 
 [[place]]
 name = "Mississauga, Ontario, Canada"
 lat = 43.59208
 lng = -79.592384
-tripadvisor_id = 154996
 
 [[place]]
 name = "Moncton, New Brunswick, Canada"
 lat = 46.08837
 lng = -64.77826
-tripadvisor_id = 154958
 
 [[place]]
 name = "Mont Tremblant, Quebec, Canada"
 lat = 46.11846
 lng = -74.59789
-tripadvisor_id = 182183
 
 [[place]]
 name = "Mont-Saint-Michel, France"
 lat = 48.63308
 lng = -1.509604
-tripadvisor_id = 196646
 
 [[place]]
 name = "Montbard, France"
 lat = 47.62164
 lng = 4.33617
-tripadvisor_id = 488279
 
 [[place]]
 name = "Montgeroult, France"
 lat = 49.0811
 lng = 2.00549
-tripadvisor_id = 2435902
 
 [[place]]
 name = "Montpellier, France"
 lat = 43.606926
 lng = 3.880531
-tripadvisor_id = 187153
 
 [[place]]
 name = "Montreal, France"
 lat = 47.54542
 lng = 4.03686
-tripadvisor_id = 1202981
 
 [[place]]
 name = "Montreal, Quebec, Canada"
 lat = 45.508022
 lng = -73.560036
-tripadvisor_id = 155032
 
 [[place]]
 name = "Montreuil, France"
 lat = 48.865204
 lng = 2.440197
-tripadvisor_id = 1055975
 
 [[place]]
 name = "Moose Jaw, Saskatchewan, Canada"
 lat = 50.39689
 lng = -105.53704
-tripadvisor_id = 155040
 
 [[place]]
 name = "Morden, Manitoba, Canada"
 lat = 49.19229
 lng = -98.11326
-tripadvisor_id = 316025
 
 [[place]]
 name = "Morris, Manitoba, Canada"
 lat = 49.35469
 lng = -97.36605
-tripadvisor_id = 499163
 
 [[place]]
 name = "Mountain View, CA, USA"
 lat = 37.38967
 lng = -122.08161
-tripadvisor_id = 32761
 
 [[place]]
 name = "Munich, Germany"
 lat = 48.13641
 lng = 11.57753
-tripadvisor_id = 187309
 
 [[place]]
 name = "Munka Ljungby, Sweden"
 lat = 56.2567
 lng = 12.966
-tripadvisor_id = 4187176
 
 [[place]]
 name = "Nanterre, France"
 lat = 48.8879
 lng = 2.202281
-tripadvisor_id = 196579
 
 [[place]]
 name = "Nantes, France"
 lat = 47.21812
 lng = -1.55306
-tripadvisor_id = 187198
 
 [[place]]
 name = "Napa, CA, USA"
 lat = 38.29886
 lng = -122.28522
-tripadvisor_id = 32766
 
 [[place]]
 name = "Neuilly-sur-Seine, France"
 lat = 48.88432
 lng = 2.26931
-tripadvisor_id = 196581
 
 [[place]]
 name = "New City, NY, USA"
 lat = 41.14828
 lng = -74.0098
-tripadvisor_id = 48236
 
 [[place]]
 name = "New York City, NY, USA"
 lat = 40.713238
 lng = -74.00584
-tripadvisor_id = 60763
 
 [[place]]
 name = "Newmerella, Australia"
 lat = -37.75761
 lng = 148.45648
-tripadvisor_id = 2260889
 
 [[place]]
 name = "Nimes, France"
 lat = 43.83003
 lng = 4.35613
-tripadvisor_id = 187154
 
 [[place]]
 name = "Niteroi, Brazil"
 lat = -22.887827
 lng = -43.115707
-tripadvisor_id = 303500
 
 [[place]]
 name = "Nogent-sur-Marne, France"
 lat = 48.83912
 lng = 2.49063
-tripadvisor_id = 196582
 
 [[place]]
 name = "Noisy-le-Grand, France"
 lat = 48.84888
 lng = 2.55403
-tripadvisor_id = 196583
 
 [[place]]
 name = "North Gower, Ontario, Canada"
 lat = 45.132954
 lng = -75.7159
-tripadvisor_id = 3205100
 
 [[place]]
 name = "North Las Vegas, NV, USA"
 lat = 36.19967
 lng = -115.11867
-tripadvisor_id = 45981
 
 [[place]]
 name = "Nottingham, UK"
 lat = 52.94905
 lng = -1.15047
-tripadvisor_id = 186356
 
 [[place]]
 name = "Nyack, NY, USA"
 lat = 41.091564
 lng = -73.92144
-tripadvisor_id = 48310
 
 [[place]]
 name = "Oak Bluff, Manitoba, Canada"
 lat = 49.773273
 lng = -97.32316
-tripadvisor_id = 19484780
 
 [[place]]
 name = "Oakland, CA, USA"
 lat = 37.80508
 lng = -122.27307
-tripadvisor_id = 32810
 
 [[place]]
 name = "Orlando, FL, USA"
 lat = 28.531824
 lng = -81.3973
-tripadvisor_id = 34515
 
 [[place]]
 name = "Orleans, France"
 lat = 47.90213
 lng = 1.9049
-tripadvisor_id = 187129
 
 [[place]]
 name = "Orly, France"
 lat = 48.74303
 lng = 2.40137
-tripadvisor_id = 1517286
 
 [[place]]
 name = "Oslo, Norway"
 lat = 59.91173
 lng = 10.750844
-tripadvisor_id = 190479
 
 [[place]]
 name = "Ottawa, Ontario, Canada"
 lat = 45.422794
 lng = -75.695625
-tripadvisor_id = 155004
 
 [[place]]
 name = "Palo Alto, CA, USA"
 lat = 37.44466
 lng = -122.16079
-tripadvisor_id = 32849
 
 [[place]]
 name = "Paola, Malta"
 lat = 35.874557
 lng = 14.504162
-tripadvisor_id = 776430
 
 [[place]]
 name = "Paradise Valley, AZ, USA"
 lat = 33.530956
 lng = -111.9417
-tripadvisor_id = 31300
 
 [[place]]
 name = "Paris, France"
 lat = 48.857037
 lng = 2.349401
-tripadvisor_id = 187147
 
 [[place]]
 name = "Peachland, British Columbia, Canada"
 lat = 49.77353
 lng = -119.73629
-tripadvisor_id = 665835
 
 [[place]]
 name = "Peggy's Cove, Nova Scotia, Canada"
 lat = 44.497684
 lng = -63.915096
-tripadvisor_id = 780595
 
 [[place]]
 name = "Perpignan, France"
 lat = 42.69871
 lng = 2.89557
-tripadvisor_id = 187156
 
 [[place]]
 name = "Phoenix, AZ, USA"
 lat = 33.46568
 lng = -112.07159
-tripadvisor_id = 31310
 
 [[place]]
 name = "Piermont, NY, USA"
 lat = 41.04037
 lng = -73.91618
-tripadvisor_id = 48394
 
 [[place]]
 name = "Pisa, Italy"
 lat = 43.71651
 lng = 10.400349
-tripadvisor_id = 187899
 
 [[place]]
 name = "Pointe Claire, Quebec, Canada"
 lat = 45.44804
 lng = -73.8173
-tripadvisor_id = 181730
 
 [[place]]
 name = "Poissy, France"
 lat = 48.928
 lng = 2.04256
-tripadvisor_id = 562719
 
 [[place]]
 name = "Portage la Prairie, Manitoba, Canada"
 lat = 49.97309
 lng = -98.29056
-tripadvisor_id = 182162
 
 [[place]]
 name = "Portland, OR, USA"
 lat = 45.51649
 lng = -122.68002
-tripadvisor_id = 52024
 
 [[place]]
 name = "Porto, Portugal"
 lat = 41.14946
 lng = -8.61031
-tripadvisor_id = 189180
 
 [[place]]
 name = "Prague, Czech Republic"
 lat = 50.076847
 lng = 14.427817
-tripadvisor_id = 274707
 
 [[place]]
 name = "Puerto Vallarta, Mexico"
 lat = 20.614948
 lng = -105.22963
-tripadvisor_id = 150793
 
 [[place]]
 name = "Quebec City, Quebec, Canada"
 lat = 46.81336
 lng = -71.2126
-tripadvisor_id = 155033
 
 [[place]]
 name = "Queens Village, NY, USA"
 lat = 40.71478
 lng = -73.75088
-tripadvisor_id = 48461
 
 [[place]]
 name = "Quimper, France"
 lat = 47.994167
 lng = -4.105131
-tripadvisor_id = 187100
 
 [[place]]
 name = "Rainy River, Ontario, Canada"
 lat = 48.7222
 lng = -94.56123
-tripadvisor_id = 2070888
 
 [[place]]
 name = "Rambouillet, France"
 lat = 48.65208
 lng = 1.830357
-tripadvisor_id = 1055982
 
 [[place]]
 name = "Redmond, WA, USA"
 lat = 47.67858
 lng = -122.13158
-tripadvisor_id = 58702
 
 [[place]]
 name = "Redwood City, CA, USA"
 lat = 37.4845
 lng = -122.22772
-tripadvisor_id = 32956
 
 [[place]]
 name = "Regina, Saskatchewan, Canada"
 lat = 50.45677
 lng = -104.62287
-tripadvisor_id = 155042
 
 [[place]]
 name = "Reims, France"
 lat = 49.2621
 lng = 4.027494
-tripadvisor_id = 187137
 
 [[place]]
 name = "Renens, Switzerland"
 lat = 46.53989
 lng = 6.5881
-tripadvisor_id = 3370821
 
 [[place]]
 name = "Rio de Janeiro, Brazil"
 lat = -22.91301
 lng = -43.18954
-tripadvisor_id = 303506
 
 [[place]]
 name = "Riverton, Manitoba, Canada"
 lat = 50.99841
 lng = -96.99645
-tripadvisor_id = 499168
 
 [[place]]
 name = "Roissy-en-France, France"
 lat = 49.003242
 lng = 2.516444
-tripadvisor_id = 196587
 
 [[place]]
 name = "Rome, Italy"
 lat = 41.893623
 lng = 12.495978
-tripadvisor_id = 187791
 
 [[place]]
 name = "Rooiels, South Africa"
 lat = -34.302357
 lng = 18.81717
-tripadvisor_id = 4606942
 
 [[place]]
 name = "Roskilde, Denmark"
 lat = 55.64046
 lng = 12.09091
-tripadvisor_id = 189544
 
 [[place]]
 name = "Rosny-sous-Bois, France"
 lat = 48.87237
 lng = 2.48524
-tripadvisor_id = 226862
 
 [[place]]
 name = "Roubaix, France"
 lat = 50.69148
 lng = 3.17318
-tripadvisor_id = 196637
 
 [[place]]
 name = "Rouen, France"
 lat = 49.44169
 lng = 1.094757
-tripadvisor_id = 187191
 
 [[place]]
 name = "Rueil-Malmaison, France"
 lat = 48.87741
 lng = 2.17912
-tripadvisor_id = 226861
 
 [[place]]
 name = "Rungis, France"
 lat = 48.7492
 lng = 2.35141
-tripadvisor_id = 196588
 
 [[place]]
 name = "Russell, Manitoba, Canada"
 lat = 50.77312
 lng = -101.28824
-tripadvisor_id = 982690
 
 [[place]]
 name = "Sahuarita, AZ, USA"
 lat = 31.95767
 lng = -110.95536
-tripadvisor_id = 31338
 
 [[place]]
 name = "Saint Jerome, Quebec, Canada"
 lat = 45.77503
 lng = -74.00352
-tripadvisor_id = 181729
 
 [[place]]
 name = "Saint John, New Brunswick, Canada"
 lat = 45.27344
 lng = -66.06415
-tripadvisor_id = 154960
 
 [[place]]
 name = "Saint Malo, Manitoba, Canada"
 lat = 49.313854
 lng = -96.9523
-tripadvisor_id = 6527798
 
 [[place]]
 name = "Saint Maurice, France"
 lat = 48.81755
 lng = 2.441091
-tripadvisor_id = 1158724
 
 [[place]]
 name = "Saint Remy, France"
 lat = 47.639977
 lng = 4.295937
-tripadvisor_id = 19336789
 
 [[place]]
 name = "Saint-Brieuc, France"
 lat = 48.51542
 lng = -2.747781
-tripadvisor_id = 196534
 
 [[place]]
 name = "Saint-Cloud, France"
 lat = 48.84441
 lng = 2.22038
-tripadvisor_id = 670763
 
 [[place]]
 name = "Saint-Denis, France"
 lat = 48.935818
 lng = 2.356457
-tripadvisor_id = 196589
 
 [[place]]
 name = "Saint-Fraimbault, France"
 lat = 48.48768
 lng = -0.698306
-tripadvisor_id = 12963495
 
 [[place]]
 name = "Saint-Germain-en-Laye, France"
 lat = 48.89842
 lng = 2.09196
-tripadvisor_id = 196590
 
 [[place]]
 name = "Saint-Jean-sur-Richelieu, Quebec, Canada"
 lat = 45.30611
 lng = -73.25032
-tripadvisor_id = 499376
 
 [[place]]
 name = "Saint-Malo, France"
 lat = 48.6505
 lng = -2.02328
-tripadvisor_id = 187104
 
 [[place]]
 name = "Saint-Mande, France"
 lat = 48.84364
 lng = 2.41807
-tripadvisor_id = 2151438
 
 [[place]]
 name = "San Francisco, CA, USA"
 lat = 37.778934
 lng = -122.41579
-tripadvisor_id = 60713
 
 [[place]]
 name = "San Gimignano, Italy"
 lat = 43.468628
 lng = 11.044151
-tripadvisor_id = 187901
 
 [[place]]
 name = "San Jose, CA, USA"
 lat = 37.329693
 lng = -121.89127
-tripadvisor_id = 33020
 
 [[place]]
 name = "Santa Clara, CA, USA"
 lat = 37.35575
 lng = -121.95499
-tripadvisor_id = 33046
 
 [[place]]
 name = "Saratoga, CA, USA"
 lat = 37.27106
 lng = -122.01402
-tripadvisor_id = 33059
 
 [[place]]
 name = "Saulges, France"
 lat = 47.98298
 lng = -0.40683
-tripadvisor_id = 1080880
 
 [[place]]
 name = "Sault Ste. Marie, Ontario, Canada"
 lat = 46.519417
 lng = -84.34813
-tripadvisor_id = 155012
 
 [[place]]
 name = "Sceaux, France"
 lat = 48.776394
 lng = 2.296087
-tripadvisor_id = 1207806
 
 [[place]]
 name = "Schaerbeek, Belgium"
 lat = 50.868
 lng = 4.37493
-tripadvisor_id = 950786
 
 [[place]]
 name = "Scottsdale, AZ, USA"
 lat = 33.49642
 lng = -111.92447
-tripadvisor_id = 31350
 
 [[place]]
 name = "Seattle, WA, USA"
 lat = 47.607243
 lng = -122.33324
-tripadvisor_id = 60878
 
 [[place]]
 name = "Sedona, AZ, USA"
 lat = 34.86598
 lng = -111.76382
-tripadvisor_id = 31352
 
 [[place]]
 name = "Selkirk, Manitoba, Canada"
 lat = 50.14573
 lng = -96.87391
-tripadvisor_id = 984011
 
 [[place]]
 name = "Semur-en-Auxois, France"
 lat = 47.49181
 lng = 4.33688
-tripadvisor_id = 675640
 
 [[place]]
 name = "Sete, France"
 lat = 43.39901
 lng = 3.69617
-tripadvisor_id = 660465
 
 [[place]]
 name = "Seville, Spain"
 lat = 37.38911
 lng = -5.984327
-tripadvisor_id = 187443
 
 [[place]]
 name = "Sherbrooke, Quebec, Canada"
 lat = 45.4023
 lng = -71.88374
-tripadvisor_id = 155035
 
 [[place]]
 name = "Siena, Italy"
 lat = 43.319355
 lng = 11.326818
-tripadvisor_id = 187902
 
 [[place]]
 name = "Sintra, Portugal"
 lat = 38.8008
 lng = -9.3819
-tripadvisor_id = 189164
 
 [[place]]
 name = "Sofia, Bulgaria"
 lat = 42.695305
 lng = 23.321167
-tripadvisor_id = 294452
 
 [[place]]
 name = "Sonoma, CA, USA"
 lat = 38.29188
 lng = -122.45726
-tripadvisor_id = 33107
 
 [[place]]
 name = "Souris, Manitoba, Canada"
 lat = 49.62086
 lng = -100.25886
-tripadvisor_id = 1809242
 
 [[place]]
 name = "Spreitenbach, Switzerland"
 lat = 47.41804
 lng = 8.36568
-tripadvisor_id = 1068948
 
 [[place]]
 name = "Staten Island, NY, USA"
 lat = 40.592316
 lng = -74.14055
-tripadvisor_id = 48682
 
 [[place]]
 name = "Ste. Anne, Manitoba, Canada"
 lat = 49.6712
 lng = -96.65242
-tripadvisor_id = 1486559
 
 [[place]]
 name = "Steinbach, Manitoba, Canada"
 lat = 49.52572
 lng = -96.68394
-tripadvisor_id = 316026
 
 [[place]]
 name = "Stellenbosch, South Africa"
 lat = -33.934505
 lng = 18.859526
-tripadvisor_id = 312673
 
 [[place]]
 name = "Stockholm, Sweden"
 lat = 59.330135
 lng = 18.06151
-tripadvisor_id = 189852
 
 [[place]]
 name = "Stonewall, Manitoba, Canada"
 lat = 50.13441
 lng = -97.32676
-tripadvisor_id = 3155760
 
 [[place]]
 name = "Strasbourg, France"
 lat = 48.583153
 lng = 7.7636
-tripadvisor_id = 187075
 
 [[place]]
 name = "Sully-sur-Loire, France"
 lat = 47.76477
 lng = 2.37712
-tripadvisor_id = 1127364
 
 [[place]]
 name = "Sunnyvale, CA, USA"
 lat = 37.37172
 lng = -122.03801
-tripadvisor_id = 33146
 
 [[place]]
 name = "Suresnes, France"
 lat = 48.86772
 lng = 2.22613
-tripadvisor_id = 196592
 
 [[place]]
 name = "Sydney, Australia"
 lat = -33.870037
 lng = 151.20955
-tripadvisor_id = 255060
 
 [[place]]
 name = "Tarxien, Malta"
 lat = 35.864994
 lng = 14.513198
-tripadvisor_id = 1469134
 
 [[place]]
 name = "Tel Aviv, Israel"
 lat = 32.071957
 lng = 34.77224
-tripadvisor_id = 293984
 
 [[place]]
 name = "Tempe, AZ, USA"
 lat = 33.42551
 lng = -111.93742
-tripadvisor_id = 31377
 
 [[place]]
 name = "Teulon, Manitoba, Canada"
 lat = 50.38575
 lng = -97.26309
-tripadvisor_id = 5777023
 
 [[place]]
 name = "The Pas, Manitoba, Canada"
 lat = 53.81344
 lng = -101.25038
-tripadvisor_id = 183812
 
 [[place]]
 name = "Thompson, Manitoba, Canada"
 lat = 55.74429
 lng = -97.85068
-tripadvisor_id = 154953
 
 [[place]]
 name = "Thunder Bay, Ontario, Canada"
 lat = 48.381863
 lng = -89.25744
-tripadvisor_id = 155017
 
 [[place]]
 name = "Tombstone, AZ, USA"
 lat = 31.71428
 lng = -110.06833
-tripadvisor_id = 31381
 
 [[place]]
 name = "Tonnerre, France"
 lat = 47.85617
 lng = 3.9745
-tripadvisor_id = 196544
 
 [[place]]
 name = "Toronto, Ontario, Canada"
 lat = 43.64381
 lng = -79.38554
-tripadvisor_id = 155019
 
 [[place]]
 name = "Touillon, France"
 lat = 47.652084
 lng = 4.425905
-tripadvisor_id = 15148721
 
 [[place]]
 name = "Toulouse, France"
 lat = 43.603947
 lng = 1.44303
-tripadvisor_id = 187175
 
 [[place]]
 name = "Tourcoing, France"
 lat = 50.72235
 lng = 3.15946
-tripadvisor_id = 196638
 
 [[place]]
 name = "Tournai, Belgium"
 lat = 50.606728
 lng = 3.388017
-tripadvisor_id = 188648
 
 [[place]]
 name = "Traverse Bay, Manitoba, Canada"
 lat = 50.672855
 lng = -96.483665
-tripadvisor_id = 4713729
 
 [[place]]
 name = "Trnava, Slovakia"
 lat = 48.37967
 lng = 17.58731
-tripadvisor_id = 663679
 
 [[place]]
 name = "Troyes, France"
 lat = 48.29831
 lng = 4.07466
-tripadvisor_id = 187138
 
 [[place]]
 name = "Valletta, Malta"
 lat = 35.898907
 lng = 14.514553
-tripadvisor_id = 190328
 
 [[place]]
 name = "Vancouver, British Columbia, Canada"
 lat = 49.2808
 lng = -123.11672
-tripadvisor_id = 154943
 
 [[place]]
 name = "Vatican City, Vatican City"
 lat = 41.902363
 lng = 12.454423
-tripadvisor_id = 187793
 
 [[place]]
 name = "Vaudreuil-Dorion, Quebec, Canada"
 lat = 45.40008
 lng = -74.03251
-tripadvisor_id = 3213081
 
 [[place]]
 name = "Vaxjo, Sweden"
 lat = 56.87996
 lng = 14.79945
-tripadvisor_id = 189849
 
 [[place]]
 name = "Venarey-les-Laumes, France"
 lat = 47.54278
 lng = 4.45911
-tripadvisor_id = 2281327
 
 [[place]]
 name = "Versailles, France"
 lat = 48.802074
 lng = 2.128208
-tripadvisor_id = 187148
 
 [[place]]
 name = "Vezelay, France"
 lat = 47.46322
 lng = 3.74192
-tripadvisor_id = 187114
 
 [[place]]
 name = "Victoria Beach, Manitoba, Canada"
 lat = 50.70216
 lng = -96.56057
-tripadvisor_id = 4434559
 
 [[place]]
 name = "Vienna, Austria"
 lat = 48.208862
 lng = 16.372383
-tripadvisor_id = 190454
 
 [[place]]
 name = "Villaines Les Prevotes, France"
 lat = 47.555054
 lng = 4.308758
-tripadvisor_id = 17620480
 
 [[place]]
 name = "Villejuif, France"
 lat = 48.79242
 lng = 2.36381
-tripadvisor_id = 196593
 
 [[place]]
 name = "Vilnius, Lithuania"
 lat = 54.69059
 lng = 25.26981
-tripadvisor_id = 274951
 
 [[place]]
 name = "Vincennes, France"
 lat = 48.84844
 lng = 2.4378
-tripadvisor_id = 790302
 
 [[place]]
 name = "Vitteaux, France"
 lat = 47.39849
 lng = 4.5423
-tripadvisor_id = 1945745
 
 [[place]]
 name = "Volterra, Italy"
 lat = 43.399548
 lng = 10.861094
-tripadvisor_id = 194951
 
 [[place]]
 name = "Warsaw, Poland"
 lat = 52.229263
 lng = 21.01181
-tripadvisor_id = 274856
 
 [[place]]
 name = "Washington DC, DC, USA"
 lat = 38.889603
 lng = -77.009476
-tripadvisor_id = 28970
 
 [[place]]
 name = "West Hawk Lake, Manitoba, Canada"
 lat = 49.742844
 lng = -95.20255
-tripadvisor_id = 3135344
 
 [[place]]
 name = "West Kelowna, British Columbia, Canada"
 lat = 49.876385
 lng = -119.54781
-tripadvisor_id = 1915410
 
 [[place]]
 name = "Westmount, Quebec, Canada"
 lat = 45.48496
 lng = -73.59657
-tripadvisor_id = 984009
 
 [[place]]
 name = "Whistler, British Columbia, Canada"
 lat = 50.11506
 lng = -122.95713
-tripadvisor_id = 154948
 
 [[place]]
 name = "White Rock, British Columbia, Canada"
 lat = 49.02505
 lng = -122.80803
-tripadvisor_id = 154949
 
 [[place]]
 name = "Whitehorse, Yukon, Canada"
 lat = 60.72087
 lng = -135.05318
-tripadvisor_id = 155047
 
 [[place]]
 name = "Whiteshell Provincial Park, Manitoba, Canada"
 lat = 49.90171
 lng = -95.38971
-tripadvisor_id = 6279674
 
 [[place]]
 name = "Wickenburg, AZ, USA"
 lat = 33.96856
 lng = -112.72961
-tripadvisor_id = 31405
 
 [[place]]
 name = "Wikieup, AZ, USA"
 lat = 34.71482
 lng = -113.6143
-tripadvisor_id = 31406
 
 [[place]]
 name = "Winkler, Manitoba, Canada"
 lat = 49.17771
 lng = -97.9384
-tripadvisor_id = 499171
 
 [[place]]
 name = "Winnipeg Beach, Manitoba, Canada"
 lat = 50.50611
 lng = -96.97463
-tripadvisor_id = 3930589
 
 [[place]]
 name = "Winnipeg, Manitoba, Canada"
 lat = 49.879974
 lng = -97.13828
-tripadvisor_id = 154954
 
 [[place]]
 name = "Winterthur, Switzerland"
 lat = 47.49853
 lng = 8.73299
-tripadvisor_id = 188112
 
 [[place]]
 name = "Woodstock, South Africa"
 lat = -33.929436
 lng = 18.449635
-tripadvisor_id = 6776544
 
 [[place]]
 name = "Zurich, Switzerland"
 lat = 47.374664
 lng = 8.539639
-tripadvisor_id = 188113
