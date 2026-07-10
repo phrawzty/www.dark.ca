@@ -523,6 +523,11 @@ lat = 56.461514
 lng = -2.970447
 
 [[place]]
+name = "Dugald, Manitoba, Canada"
+lat = 49.8857
+lng = -96.8428
+
+[[place]]
 name = "Ecublens, Switzerland"
 lat = 46.52543
 lng = 6.56113
@@ -1138,6 +1143,11 @@ lat = 47.21812
 lng = -1.55306
 
 [[place]]
+name = "Narcisse, Manitoba, Canada"
+lat = 50.6831
+lng = -97.5299
+
+[[place]]
 name = "Napa, CA, USA"
 lat = 38.29886
 lng = -122.28522
@@ -1206,6 +1216,11 @@ lng = -73.92144
 name = "Oak Bluff, Manitoba, Canada"
 lat = 49.773273
 lng = -97.32316
+
+[[place]]
+name = "Oakbank, Manitoba, Canada"
+lat = 49.9395
+lng = -96.8390
 
 [[place]]
 name = "Oakland, CA, USA"
