@@ -378,6 +378,11 @@ lat = 48.89
 lng = 2.15581
 
 [[place]]
+name = "Chaville, France"
+lat = 48.8057
+lng = 2.1886
+
+[[place]]
 name = "Chessy, France"
 lat = 48.87946
 lng = 2.763527
@@ -1236,6 +1241,11 @@ lng = -75.695625
 name = "Palo Alto, CA, USA"
 lat = 37.44466
 lng = -122.16079
+
+[[place]]
+name = "Pantin, France"
+lat = 48.8944
+lng = 2.4094
 
 [[place]]
 name = "Paola, Malta"
