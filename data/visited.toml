@@ -303,6 +303,11 @@ lat = -33.95176
 lng = 18.380127
 
 [[place]]
+name = "Cairo, Egypt"
+lat = 30.0444
+lng = 31.2357
+
+[[place]]
 name = "Canberra, Australia"
 lat = -35.28279
 lng = 149.12856
@@ -1936,6 +1941,11 @@ lng = 8.73299
 name = "Woodstock, South Africa"
 lat = -33.929436
 lng = 18.449635
+
+[[place]]
+name = "Zadar, Croatia"
+lat = 43.1135
+lng = 16.4401
 
 [[place]]
 name = "Zurich, Switzerland"
