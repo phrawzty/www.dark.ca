@@ -663,6 +663,11 @@ lat = 50.63687
 lng = -96.99419
 
 [[place]]
+name = "Giza, Egypt"
+lat = 30.0131
+lng = 31.2089
+
+[[place]]
 name = "Glenbrook, Australia"
 lat = -33.76655
 lng = 150.62117
