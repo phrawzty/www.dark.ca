@@ -19,10 +19,11 @@
             preferCanvas: true,
         });
 
+        const cartoKey = encodeURIComponent(mapNode.dataset.cartoKey || "");
         L.tileLayer(
-            "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+            "https://basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}{r}.png?key=" +
+                cartoKey,
             {
-                subdomains: "abcd",
                 maxZoom: 19,
                 attribution:
                     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',

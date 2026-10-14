@@ -5,7 +5,7 @@
         ["css/leaflet/leaflet.css", "css/travel-map.css"]
 -#}
 {%- set data = load_data(path="data/visited.toml") -%}
-<div id="travel-map-canvas" class="travel-map" aria-label="Map of places visited"></div>
+<div id="travel-map-canvas" class="travel-map" aria-label="Map of places visited" data-carto-key="{{ config.extra.carto_basemaps_key | default(value='') }}"></div>
 <script type="application/json" id="travel-pins">{{ data.place | json_encode | safe }}</script>
 <script src="{{ get_url(path='js/leaflet/leaflet.js', cachebust=true) | safe }}"></script>
 <script src="{{ get_url(path='js/travel-map.js', cachebust=true) | safe }}"></script>

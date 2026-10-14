@@ -21,9 +21,13 @@ main_menu = [
     { name = "travels", url = "/travels/", trailing_slash = true },
 ]
 
+# CARTO basemaps API key for the /travels/ map (https://carto.com/basemaps/apikey).
+# It's public in the page source anyway; restrict it to dark.ca in the CARTO dashboard.
+carto_basemaps_key = "cb1_4jz5_1_bda2f8c0b12b1acd38167b70"
+
 # Allow CARTO basemap tiles for the /travels/ map. The terminus theme enables
 # CSP by default (default-src 'self'); without this, tile <img> requests are
 # blocked because img-src falls back to default-src.
 [[extra.content_security_policy.allowed_domains]]
 directive = "img-src"
-domains = ["'self'", "https://*.basemaps.cartocdn.com"]
+domains = ["'self'", "https://basemaps.cartocdn.com", "https://*.basemaps.cartocdn.com"]
