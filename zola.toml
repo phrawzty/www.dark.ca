@@ -16,7 +16,7 @@ show_default_author = false
 fediverse_creator = "@phrawzty@hachyderm.io"
 
 main_menu = [
-    { name = "portfolio", url = "https://speaking.dark.ca/" },
+    { name = "portfolio", url = "https://portfolio.dark.ca/" },
     { name = "blog", url = "https://blog.dark.ca/" },
     { name = "travels", url = "/travels/", trailing_slash = true },
 ]

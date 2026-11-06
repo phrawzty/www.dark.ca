@@ -7,7 +7,7 @@ I'm a Senior Security Advocate at [Datadog](https://www.datadoghq.com/), a core 
 I've previously built and maintained large-scale systems at Ubisoft, Mozilla, and Cerbos.
 
 I talk at conferences and write about security, infrastructure, and open source. Check out my
-[speaking portfolio](https://speaking.dark.ca/) for talks, abstracts, and bio.
+[speaking portfolio](https://portfolio.dark.ca/) for talks, abstracts, and bio.
 
 ## find me
 
