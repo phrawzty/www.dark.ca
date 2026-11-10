@@ -763,6 +763,11 @@ lat = 52.03113
 lng = -0.28584
 
 [[place]]
+name = "Hollywood, CA, USA"
+lat = 34.092809
+lng = -118.328661
+
+[[place]]
 name = "Issy-les-Moulineaux, France"
 lat = 48.82116
 lng = 2.25132
@@ -958,6 +963,11 @@ lat = 47.75018
 lng = -3.36685
 
 [[place]]
+name = "Los Angeles, CA, USA"
+lat = 34.052235
+lng = -118.243683
+
+[[place]]
 name = "Los Molinos, Spain"
 lat = 40.71186
 lng = -4.075282
@@ -1041,6 +1051,11 @@ lng = -111.83146
 name = "Meudon, France"
 lat = 48.81208
 lng = 2.23778
+
+[[place]]
+name = "Millbrae, CA, USA"
+lat = 37.59942
+lng = -122.38664
 
 [[place]]
 name = "Minneapolis, MN, USA"
@@ -1551,6 +1566,11 @@ lng = -121.89127
 name = "Santa Clara, CA, USA"
 lat = 37.35575
 lng = -121.95499
+
+[[place]]
+name = "Santa Monica, CA, USA"
+lat = 34.019454
+lng = -118.491191
 
 [[place]]
 name = "Saratoga, CA, USA"
